@@ -1,0 +1,2 @@
+$ python viz_and_measure.py --ply ./output_pointcloud1.ply
+$ python pick_and_measure_fix.py --ply ./output_pointcloud5-chair.ply
